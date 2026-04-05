@@ -1,5 +1,7 @@
 # Reading Children in the Dark
 
+[![DOI](https://zenodo.org/badge/1201793510.svg)](https://doi.org/10.5281/zenodo.19426401)
+
 R scripts for the analysis pipeline used to generate the study tables and figures.
 
 ## Repository structure
