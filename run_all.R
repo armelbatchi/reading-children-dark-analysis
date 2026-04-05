@@ -1,0 +1,5 @@
+source(file.path("R", "03_table1.R"))
+source(file.path("R", "04_multilevel_models_table2.R"))
+source(file.path("R", "05_meta_regression_table3_fig1.R"))
+source(file.path("R", "06_fig2_interaction.R"))
+source(file.path("R", "07_fig3_forest.R"))
